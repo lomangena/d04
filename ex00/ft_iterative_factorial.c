@@ -6,7 +6,7 @@
 /*   By: lomangen <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/07/12 12:24:37 by lomangen          #+#    #+#             */
-/*   Updated: 2020/07/13 16:58:02 by lomangen         ###   ########.fr       */
+/*   Updated: 2020/07/15 12:07:18 by lomangen         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 #include <unistd.h>
@@ -36,4 +36,5 @@ int		ft_iterative_factorial(int b)
 
 		}
 }
-		
+	
+}
